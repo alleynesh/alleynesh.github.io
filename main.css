@@ -3,10 +3,9 @@ body {
   background: cyan;
   color: red;
 }
-/*
-body em {
-  color: green;
-  font-style: normal;
-  font-weight: 900;
+ol{
+  list-style-type: upper-alpha;
 }
-*/
+ul {
+  list-style-type: square;
+  }

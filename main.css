@@ -9,3 +9,18 @@ ol{
 ul {
   list-style-type: square;
   }
+table {
+      border-spacing: 20px 20px;
+      border-radius: 10px;
+      background: green;
+}
+td {
+  padding: 1em;
+  border: 2px solid green;
+  }
+#raisin{
+  height: 100px;
+}
+#nature{
+  height: 200px;
+  }
